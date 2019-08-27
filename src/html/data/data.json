@@ -1,0 +1,16 @@
+{
+    "copy"           : "WebsiteMarket. Site Consultant - Coming Soon.", 
+    "email"          : "hello@WebsiteMarket.ro",
+    "design"         : "Eventually by Pixelarity",
+
+    "seo_title"      : "Site Consultant - Coming Soon | AppSeed",
+    "seo_desc"       : "Aplicatie JAMstack cu design modern potrivit consultantilor. Un produs WebsiteMarket",
+
+    "product"        : "https://websitemarket.ro", 
+    "github"         : "https://github.com/creare-site/site-consultant-coming-soon",
+    "facebook"       : "https://www.facebook.com/Websitemarketro/",
+    "twitter"        : "https://twitter.com/websitemarketro",
+    "support"        : "hello@websitemarket.ro",
+
+    "LAST_KEY" : "NA"
+}
